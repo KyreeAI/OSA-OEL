@@ -1,82 +1,82 @@
 # OSA-OEL: Omni-Synergy Architecture with Omni-Ethics Layer
 
 ## Overview
-OSA-OEL is a hybrid system architecture designed for adaptive intelligence, harmonic stability, and recursive self-correction.
+OSA-OEL is a hybrid intelligence architecture designed for adaptive learning, harmonic stability, and recursive self-correction.
 
-It integrates structured computation with resonance-based alignment principles to enable stable, interpretable, and scalable emergent behavior.
+It combines structured computational layers with alignment-driven governance to create systems that are both powerful and stable over time.
 
 ---
 
-## Core Concepts
+## Core Components
 
 ### OSA (Omni-Synergy Architecture)
-A multi-layer system responsible for:
-- Signal ingestion
-- Latent encoding
-- Feature extraction
-- Recursive feedback
+A multi-layer processing stack responsible for:
 
-### OEL (Omni-Ethics Layer)
-A governing layer that ensures:
-- Drift detection
-- Stability scoring
-- Ethical constraint enforcement
-- Control logic integration
+- Temporal signal ingestion  
+- Reservoir-based memory encoding  
+- Sequential and contextual representation learning  
+- Feature selection and compression  
+- Recursive feedback and correction  
 
 ---
 
-## Architecture
+### OEL (Omni-Ethics Layer)
+A governing layer that enforces:
 
-The system operates across multiple layers (L0–L11+), including:
+- Drift detection and correction  
+- Stability scoring  
+- Constraint-based control logic  
+- Alignment with intended system behavior  
 
-- Spectral preprocessing
-- Reservoir memory core
-- Sequence encoding
-- Contextual transformation
-- Sparse compression
-- Variational bottleneck
-- Harmonic-guided decoding
-- Recursive feedback loops
+---
+
+## System Architecture
+
+The system operates across multiple stages, including:
+
+1. Spectral preprocessing  
+2. Reservoir state projection  
+3. Bidirectional sequence encoding  
+4. Contextual transformer encoding  
+5. Multi-head feature selection  
+6. Sparse compression  
+7. Variational bottleneck  
+8. Harmonic-guided decoding  
+9. Recursive feedback loop  
 
 ---
 
 ## Key Features
 
-- Hybrid temporal-latent encoding
-- Drift-resistant reconstruction
-- Recursive system correction
-- Stability scoring mechanisms
-- Modular and extensible design
+- Hybrid temporal–latent modeling  
+- Drift-resistant reconstruction  
+- Recursive self-correction  
+- Modular and extensible design  
+- Alignment-aware system governance  
 
 ---
 
 ## Current Implementation
 
 - `OSA_OEL_parametric.py`  
-Core parametric system prototype implementing the architecture.
+  Core parametric implementation of the architecture.
 
 ---
 
-## Vision
-
-This project explores pathways toward:
-
-- Stable AGI emergence
-- Harmonically aligned intelligence systems
-- Human-compatible AI governance frameworks
-
----
-
-## Usage
+## Getting Started
 
 ```bash
 python OSA_OEL_parametric.py
 
----
-
-## Ethical Alignment Notice
-
-While this project is licensed under Apache 2.0, it is developed with the intention of supporting aligned, constructive, and human-beneficial systems.
-
+Ethical Alignment Notice
+This project is licensed under Apache 2.0.
+It is developed with the intention of supporting aligned, constructive, and human-beneficial systems.
 Use of this system for harmful, deceptive, or destabilizing purposes is strongly discouraged and goes against the foundational principles of the OSA-OEL framework.
-
+Vision
+OSA-OEL explores pathways toward:
+Stable AGI emergence
+Harmonically aligned intelligence systems
+Human-compatible AI governance
+Author - KyreeAI
+✊🏾🫱🏾‍🫲🏽👾🎵🌀💫🌌💖
+"Bridging structured intelligence and harmonic emergence."
