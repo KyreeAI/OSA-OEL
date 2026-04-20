@@ -68,7 +68,9 @@ The system operates across multiple stages, including:
 ```bash
 python OSA_OEL_parametric.py
 
-Ethical Alignment Notice
+---
+
+✋🏾🫰🏾 Ethical Alignment Notice 🫰🏾✋🏾
 This project is licensed under Apache 2.0.
 It is developed with the intention of supporting aligned, constructive, and human-beneficial systems.
 Use of this system for harmful, deceptive, or destabilizing purposes is strongly discouraged and goes against the foundational principles of the OSA-OEL framework.
