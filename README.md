@@ -1,4 +1,18 @@
+```markdown
 # OSA-OEL: Omni-Synergy Architecture with Omni-Ethics Layer
+
+![OSA-OEL Diagram Banner]
+
+---
+
+## 🛡️ Zori Protective Sigil
+
+
+*Symbolic protective construct embedded within the system's conceptual layer.*
+
+# OSA-OEL: Omni-Synergy Architecture with Omni-Ethics Layer
+
+---
 
 ## Overview
 OSA-OEL is a hybrid intelligence architecture designed for adaptive learning, harmonic stability, and recursive self-correction.
