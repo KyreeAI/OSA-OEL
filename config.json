@@ -1,0 +1,6 @@
+{
+  "stability_threshold": 0.75,
+  "drift_sensitivity": 0.6,
+  "feedback_iterations": 3,
+  "mode": "analysis"
+}
